@@ -22,7 +22,6 @@ wget https://raw.githubusercontent.com/Allinone24567/Oracle-Cloud-Advanced-Backu
 
 ## Restoring Backup
 
-
 ### Root Access
 
 ```
