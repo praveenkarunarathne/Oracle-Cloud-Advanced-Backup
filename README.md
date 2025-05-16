@@ -49,3 +49,5 @@ echo "DNS=8.8.8.8 8.8.4.4" >> /etc/systemd/resolved.conf && systemctl restart sy
 ```
 wget https://raw.githubusercontent.com/praveenkarunarathne/Oracle-Cloud-Advanced-Backup/main/AllInOne_Restoring_Backup.sh && bash AllInOne_Restoring_Backup.sh
 ```
+
+</details>
